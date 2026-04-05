@@ -1,0 +1,80 @@
+{
+  "programming_languages": [
+    "python", "java", "javascript", "typescript", "c", "c++", "c#", "go", "golang",
+    "rust", "kotlin", "swift", "ruby", "php", "scala", "r", "matlab", "perl",
+    "haskell", "lua", "dart", "bash", "shell", "powershell", "groovy", "elixir",
+    "clojure", "f#", "cobol", "fortran", "assembly", "vba", "objective-c", "julia"
+  ],
+  "web_frontend": [
+    "html", "css", "react", "reactjs", "react.js", "angular", "angularjs", "vue",
+    "vuejs", "vue.js", "nextjs", "next.js", "nuxtjs", "svelte", "jquery", "bootstrap",
+    "tailwind", "tailwindcss", "sass", "less", "webpack", "vite", "babel",
+    "redux", "mobx", "graphql", "apollo", "gatsby", "ember", "backbone", "d3.js",
+    "three.js", "webgl", "pwa", "typescript", "storybook", "jest", "cypress"
+  ],
+  "web_backend": [
+    "nodejs", "node.js", "express", "expressjs", "django", "flask", "fastapi",
+    "spring", "springboot", "spring boot", "laravel", "rails", "ruby on rails",
+    "asp.net", "dotnet", ".net", "nestjs", "koa", "hapi", "fastify",
+    "graphql", "rest", "restful", "soap", "grpc", "websockets", "microservices",
+    "serverless", "lambda", "celery", "redis", "rabbitmq", "kafka", "nginx", "apache"
+  ],
+  "databases": [
+    "sql", "mysql", "postgresql", "postgres", "sqlite", "oracle", "mssql",
+    "sql server", "mongodb", "cassandra", "redis", "elasticsearch", "dynamodb",
+    "firebase", "supabase", "neo4j", "couchdb", "hbase", "influxdb", "snowflake",
+    "bigquery", "redshift", "db2", "mariadb", "nosql", "orm", "sqlalchemy",
+    "mongoose", "prisma", "sequelize", "hibernate"
+  ],
+  "cloud_devops": [
+    "aws", "azure", "gcp", "google cloud", "docker", "kubernetes", "k8s",
+    "terraform", "ansible", "jenkins", "gitlab ci", "github actions", "circleci",
+    "travis ci", "helm", "prometheus", "grafana", "elk", "splunk", "datadog",
+    "new relic", "cloudformation", "pulumi", "vagrant", "packer", "istio",
+    "service mesh", "devops", "ci/cd", "devsecops", "sre", "linux", "unix",
+    "bash scripting", "infrastructure as code", "iac", "serverless", "openshift"
+  ],
+  "data_science_ml": [
+    "machine learning", "deep learning", "artificial intelligence", "ai", "ml",
+    "data science", "data analysis", "data mining", "nlp", "natural language processing",
+    "computer vision", "reinforcement learning", "tensorflow", "pytorch", "keras",
+    "scikit-learn", "sklearn", "pandas", "numpy", "scipy", "matplotlib", "seaborn",
+    "plotly", "tableau", "power bi", "statistics", "probability", "regression",
+    "classification", "clustering", "neural networks", "cnn", "rnn", "lstm",
+    "transformers", "bert", "gpt", "llm", "hugging face", "mlops", "feature engineering",
+    "a/b testing", "hypothesis testing", "xgboost", "lightgbm", "random forest",
+    "svm", "pca", "dimensionality reduction", "time series", "forecasting",
+    "recommendation systems", "anomaly detection"
+  ],
+  "data_engineering": [
+    "etl", "data pipeline", "apache spark", "spark", "hadoop", "hive", "airflow",
+    "dbt", "kafka", "flink", "databricks", "data warehouse", "data lake",
+    "data lakehouse", "datalake", "nifi", "luigi", "prefect", "dagster",
+    "data modeling", "dimensional modeling", "star schema", "snowflake schema"
+  ],
+  "mobile": [
+    "android", "ios", "react native", "flutter", "xamarin", "ionic", "cordova",
+    "swift", "kotlin", "objective-c", "mobile development", "app development",
+    "firebase", "expo"
+  ],
+  "security": [
+    "cybersecurity", "information security", "penetration testing", "pentest",
+    "ethical hacking", "network security", "application security", "owasp",
+    "siem", "soc", "vulnerability assessment", "cryptography", "ssl", "tls",
+    "oauth", "jwt", "authentication", "authorization", "iam", "zero trust",
+    "firewall", "ids", "ips", "dlp", "compliance", "gdpr", "hipaa", "soc2"
+  ],
+  "soft_skills": [
+    "communication", "teamwork", "leadership", "problem solving", "critical thinking",
+    "time management", "project management", "agile", "scrum", "kanban",
+    "collaboration", "adaptability", "creativity", "analytical", "presentation",
+    "negotiation", "mentoring", "coaching", "decision making", "stakeholder management"
+  ],
+  "tools": [
+    "git", "github", "gitlab", "bitbucket", "jira", "confluence", "trello",
+    "slack", "notion", "figma", "postman", "swagger", "vscode", "intellij",
+    "eclipse", "xcode", "android studio", "jupyter", "colab", "databricks",
+    "excel", "powerpoint", "word", "google workspace", "microsoft office",
+    "linux", "ubuntu", "centos", "windows server", "macos", "vim", "emacs"
+  ]
+}
