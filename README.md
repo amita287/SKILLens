@@ -1,4 +1,4 @@
-SKILLens — Resume Skill Matcher
+SKILLens - Resume Skill Matcher
 
 SKILLens is a domain-independent NLP-based system that analyzes resumes, extracts skills, compares them with a job description, and provides match scores with improvement suggestions.
 
